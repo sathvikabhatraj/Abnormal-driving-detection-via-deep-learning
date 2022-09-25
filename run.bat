@@ -1,0 +1,2 @@
+python AbnormalBehaviour.py
+pause
